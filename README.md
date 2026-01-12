@@ -11,6 +11,5 @@
 
 ### TODO 
 
-- stub firmware... 
 - add enclosure CAD ? 
 - what-is-for, etc ? 
