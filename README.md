@@ -8,7 +8,7 @@
 | ![routed_front](images/routed_front.jpg) | ![routed_back](images/routed_back.jpg) |
 
 
-![schematic](circuit/accel-lsm6dsv16x-rp2354a.svg)
+![schematic](circuit/accel-lsm6dsv16x-rp2354a.png)
 
 ### TODO 
 
