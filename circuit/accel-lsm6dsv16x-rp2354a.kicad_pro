@@ -551,7 +551,7 @@
       "plot": "mfg/",
       "pos_files": "mfg/",
       "specctra_dsn": "",
-      "step": "accel-bno085-samd21.step",
+      "step": "cad/accel-lsm6dsv16x-rp2354a.step",
       "svg": "",
       "vrml": ""
     },

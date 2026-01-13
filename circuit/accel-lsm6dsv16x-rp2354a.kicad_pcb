@@ -16156,6 +16156,43 @@
 			)
 		)
 	)
+	(dimension
+		(type orthogonal)
+		(layer "Dwgs.User")
+		(uuid "a6b2ea14-da57-47a4-bab9-d25ec8086e12")
+		(pts
+			(xy 49.5 166.5) (xy 49.5 161)
+		)
+		(height 2.5)
+		(orientation 1)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "5.5000 mm"
+			(at 50.85 163.75 90)
+			(layer "Dwgs.User")
+			(uuid "a6b2ea14-da57-47a4-bab9-d25ec8086e12")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
 	(segment
 		(start 42.12 153.1)
 		(end 42.2 153.18)

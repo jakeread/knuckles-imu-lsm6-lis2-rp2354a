@@ -7,7 +7,7 @@
 | ![preview_front](images/preview_front.jpg) | ![preview_front](images/preview_back.jpg) |
 | ![routed_front](images/routed_front.jpg) | ![routed_back](images/routed_back.jpg) |
 
-![schematic](images/schematic.png)
+![schematic](images/schematic.png)  
 
 ## Functional Description
 
@@ -19,6 +19,12 @@ The board is programmed with a standard 10-pin SWD connector. Communication is d
 
 I have also included a generic GPIO output on a JST-SH connector for adhoc applications (it may be useful and there was space). 
 
-### TODO 
+## Enclosure
 
-- add enclosure CAD ? 
+![enclosure](images/enclosure.jpg)
+
+The board can be mounted directly into a machine and enclosed there, or mounted into this enclosure and attached externally anywhere. This is intended to be printed in PETG and uses M2.5 hardware. 
+
+## TODO
+
+- bring up and test firmware
