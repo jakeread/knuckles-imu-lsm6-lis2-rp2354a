@@ -4,7 +4,8 @@
 
 | | |
 | --- | --- |
-| ![preview_front](images/preview_front.jpg) | ![preview_front](images/preview_back.jpg) |
+| ![preview_front](images/preview_front.jpg) | ![preview_back](images/preview_back.jpg) |
+| ![fab_front](images/2026-01-13_pic-0067.jpg) | ![fab_back](images/2026-01-13_pic-0065.jpg) |
 | ![routed_front](images/routed_front.jpg) | ![routed_back](images/routed_back.jpg) |
 
 ![schematic](images/schematic.png)  

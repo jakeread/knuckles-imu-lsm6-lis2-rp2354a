@@ -3,14 +3,25 @@
 
 // stub, cribbed from prior xiao version 
 
-#define PIN_LED_USER 25 
-#define PIN_UART_RX1 21 
-#define PIN_UART_TX1 20
+#define PIN_LED_USER_WS2812 12
 
-#define PIN_LSM_SPI_CS     5 // GPIO5, XIAO D3  | 1, 5, 17, 21 
-#define PIN_LSM_SPI_MOSI   3 // GPIO3, XIAO D10 | 3, 7, 19, 23 
-#define PIN_LSM_SPI_MISO   4 // GPIO4, XIAO D9  | 0, 4, 16, 20  
-#define PIN_LSM_SPI_CLK    2 // GPIO2, XIAO D8  | 2, 6, 18, 22
+#define PIN_LED_R           16
+#define PIN_LED_G           18
+#define PIN_LED_B           17
+
+// LSM6DSV16X
+#define PIN_LSM_SPI_CS      13 // F1: SPI1
+#define PIN_LSM_SPI_MOSI    15 // F1: SPI1
+#define PIN_LSM_SPI_MISO    12 // F1: SPI1
+#define PIN_LSM_SPI_CLK     14 // F1: SPI1
+#define PIN_LSM_INT1        11
+#define PIN_LSM_INT2        10
+
+// LIS2MDLTR
+#define PIN_MAG_SPI_CS      21 // F1: SPI0
+#define PIN_MAG_SPI_MOSI    23 // F1: SPI0
+#define PIN_MAG_SPI_MISO    20 // F1: SPI0
+#define PIN_MAG_SPI_CLK     22 // F1: SPI0
 
 // https://docs.sparkfun.com/SparkFun_6DoF_LSM6DSV16X/hardware_overview/#gpio
 // https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html 
